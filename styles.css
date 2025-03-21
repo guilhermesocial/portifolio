@@ -4,3 +4,12 @@
     box-sizing: border-box;/*cria uma caixa invisivel para o corpo do site*/
 
 }
+
+
+
+.topo{
+    background-color: rgba(97, 24, 6, 0.89); /*cor do fundo do topo no side*/
+    height: 15vh; /* tamanho do topo do site 15% da tela*/
+    
+}
+

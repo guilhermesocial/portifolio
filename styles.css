@@ -8,13 +8,13 @@
 
 
 .topo{
-    background-color: rgba(97, 24, 6, 0.89); /*cor do fundo do topo no side*/
+    background-color: rgb(255, 51, 0); /*cor do fundo do topo no side*/
     height: 15vh; /* tamanho do topo do site 15% da tela*/
     
 }
 .conteudo {
     height: 85vh;
-    background-color: black;
+    background-color: rgb(255, 255, 255);
 .imagem-circular{
     width: 150px;
     height: 15px;

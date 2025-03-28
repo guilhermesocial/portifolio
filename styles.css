@@ -8,13 +8,13 @@
 
 
 .topo{
-    background-color: rgb(67, 190, 33); /*cor do fundo do topo no side*/
+    background-color: rgb(10, 249, 233); /*cor do fundo do topo no side*/
     height: 15vh; /* tamanho do topo do site 15% da tela*/
     
 }
 .conteudo {
     height: 85vh;
-    background-color: rgb(89, 248, 243);
+    background-color: rgb(0, 0, 0);
 
 
 
